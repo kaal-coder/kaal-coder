@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **javascript.**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ptCJZ1reE_6i-1FkkFB0PV4IvM7osgG4/view?usp=sharing](https://drive.google.com/file/d/1ptCJZ1reE_6i-1FkkFB0PV4IvM7osgG4/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1VmVwlvhqTyPLWpyT3mOwt2QQ41Z5ZpLb/view?usp=sharing](Here)
 
 - 💬 Ask me about **anything on tech.**
 
