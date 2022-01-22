@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/_k_a_a_l" target="blank"><img align="center" src="https://github.com/kaal-coder/kaal-coder/blob/main/twitter.png" alt="_k_a_a_l" height="40" width="40" /></a>
-<a href="https://linkedin.com/in/kaushik-lakhani-08012001" target="blank"><img align="center" src="https://github.com/kaal-coder/kaal-coder/blob/main/linkedin.png" alt="kaushik-lakhani-08012001" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kaushik-lakhani-08012001" target="blank"><img align="center" src="https://github.com/kaal-coder/kaal-coder/blob/main/linkedin.png" alt="kaushik-lakhani-08012001" height="50" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/people/kaushik-lakhani/100008225834590/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/people/kaushik-lakhani/100008225834590/" height="40" width="40" /></a>
 <a href="https://instagram.com/__k.a.a.l.__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__k.a.a.l.__" height="30" width="40" /></a>
 <a href="https://medium.com/@kaushik.lakhani123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@kaushik.lakhani123" height="30" width="40" /></a>
