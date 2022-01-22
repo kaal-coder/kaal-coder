@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/_k_a_a_l" target="blank"><img align="center" src="![twitter](https://user-images.githubusercontent.com/85815858/150638140-6398a338-7300-47be-8a41-37d4e693c465.png)" alt="_k_a_a_l" height="40" width="40" /></a>
+<a href="https://twitter.com/_k_a_a_l" target="blank"><img align="center" src="https://user-images.githubusercontent.com/85815858/150638215-c3a50ccd-0773-459f-8d54-735abbc10378.png" alt="_k_a_a_l" height="40" width="40" /></a>
 <a href="https://linkedin.com/in/kaushik-lakhani-08012001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kaushik-lakhani-08012001" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/people/kaushik-lakhani/100008225834590/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/people/kaushik-lakhani/100008225834590/" height="30" width="40" /></a>
 <a href="https://instagram.com/__k.a.a.l.__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__k.a.a.l.__" height="30" width="40" /></a>
