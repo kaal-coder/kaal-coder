@@ -20,7 +20,7 @@
 <a href="https://fb.com/https://www.facebook.com/people/kaushik-lakhani/100008225834590/" target="blank"><img align="center" src="https://github.com/kaal-coder/kaal-coder/blob/main/facebook.png" alt="https://www.facebook.com/people/kaushik-lakhani/100008225834590/" height="40" width="40" /></a>
 <a href="https://instagram.com/__k.a.a.l.__" target="blank"><img align="center" src="https://github.com/kaal-coder/kaal-coder/blob/main/instagram.png" alt="__k.a.a.l.__" height="40" width="40" /></a>
 <a href="https://medium.com/@kaushik.lakhani123" target="blank"><img align="center" src="https://github.com/kaal-coder/kaal-coder/blob/main/medium.jpg" alt="@kaushik.lakhani123" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/kaushiklakhani123/" target="blank"><img align="center" src="https://github.com/kaal-coder/kaal-coder/blob/main/geeksforgeeks.png" alt="https://auth.geeksforgeeks.org/user/kaushiklakhani123/" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/kaushiklakhani123/" target="blank"><img align="center" src="https://github.com/kaal-coder/kaal-coder/blob/main/geeksforgeeks.png" alt="https://auth.geeksforgeeks.org/user/kaushiklakhani123/" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
