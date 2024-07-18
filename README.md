@@ -1,13 +1,13 @@
 <h1 align="center">Hi <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="30px">, I'm Kaushik Lakhani</h1>
-<h3 align="center">Currently persuading my B.Tech in CSIT Branch at ITER, SOA University🏫🎓 !</h3>
+<h3 align="center">Recently Completed my B.Tech in CSIT Branch at ITER, SOA University🏫🎓 !</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaal-coder&label=Profile%20views&color=1c8b0e&style=flat" alt="kaal-coder" /> </p>
 
-- 🔭 I’m currently working on **myself, obviously.**
+- 🔭 I’m currently and mostly working on **myself, obviously.**
 
-- 🌱 I’m currently learning **javascript.**
+- 🌱 I’m currently learning **node.js.**
 
-- 📄 Know about my experiences [Here](https://drive.google.com/file/d/1H8nMt0bSog199V82n-QPIRHrKXLOIl5k/view?usp=sharing)
+- 📄 Know about my experiences [Here](https://drive.google.com/file/d/1WBPmEV6Gs_wLqGUR4jZJOC6_52LX_hNR/view?usp=sharing)
 
 - 💬 Ask me about **anything on tech.**
 
